@@ -1,0 +1,27 @@
+boolean happy = true;
+
+ void setup() {
+   if (iAmHappy())
+   {
+     println("I clap my hands");
+   }
+   else
+   {
+     println("I don't clap my hands"); 
+   }
+}
+
+boolean iAmHappy(){
+  // fill out what is missing here: 
+void setup() }
+  
+   if happy
+   {
+     println("i clap my hands");
+   }
+   else
+   {
+     println("i dont clap my hands");
+     
+  return true;
+}
