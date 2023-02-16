@@ -1,0 +1,16 @@
+void setup() {
+println()
+}
+
+String = "name";
+String = "age";
+
+public void(name) [
+    System.out.println("My "name" is <name>");
+
+
+]
+public void(name) {
+    System.out.println("I am "age" years old");
+    
+}
